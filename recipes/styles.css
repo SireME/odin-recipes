@@ -1,0 +1,17 @@
+div{
+    padding: 0.001% 20% 15%;
+    font-size: 150%;
+    background-color: lightblue;
+}
+img{
+    height: 400px;
+    width: 950px;
+    border-radius: 3cm;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-align: right;
+    background-color: lightgrey;
+}
