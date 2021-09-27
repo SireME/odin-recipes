@@ -5,7 +5,7 @@ div{
 }
 img{
     height: 400px;
-    width: 950px;
+    width: auto;
     border-radius: 3cm;
 }
 p{
@@ -21,4 +21,5 @@ h2{
     font-family: cursive;
     font-weight: 700;
     color: rgb(10, 54, 10);
+
 }
