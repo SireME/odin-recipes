@@ -1,0 +1,27 @@
+#home-styles{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+    background-color: grey;
+    line-height: 1.5cm;
+    padding: 15%;
+    border-style: double;
+    border-color: #3da86d;
+    border-radius: 2cm;
+    
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: rgb(131, 38, 69);
+    border-radius: 2cm;
+    border-style: ridge;
+    border-bottom: yellowgreen;
+    border-top: yellowgreen;
+}
+ul{
+    list-style: none;
+}
+a{
+   color: thistle; 
+}
