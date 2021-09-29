@@ -1,25 +1,27 @@
-div{
-    padding: 0.001% 20% 15%;
-    font-size: 150%;
+body{
+    box-sizing: border-box;
+}
+div{  
+    font-size: 2vw;
     background-color: lightblue;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 img{
     height: 400px;
-    width: auto;
+    max-width: 100%;
     border-radius: 3cm;
 }
 p{
-    text-align: justify;
+    text-align: justify;  
 }
 h2{
     text-align: right;
     background-color: lightgrey;
+    
 }
 #return{
     text-align: right;
-    font-size: 90%;
-    font-family: cursive;
-    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(10, 54, 10);
-
 }
